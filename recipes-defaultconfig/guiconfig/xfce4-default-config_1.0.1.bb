@@ -1,7 +1,6 @@
 DESCRIPTION = "This recipe presets xfce user default configuration"
 LICENSE = "MIT & CC0-1.0"
 LIC_FILES_CHKSUM = "file://${COREBASE}/meta/COPYING.MIT;md5=3da9cfbcb788c80a0384361b4de20420"
-PR = "r4"
 
 # License sunrise: https://www.pexels.com/photo/sunrise-under-cloudy-sky-illustration-67832/
 
