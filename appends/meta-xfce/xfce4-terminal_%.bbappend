@@ -1,1 +1,1 @@
-RRECOMMENDS:${PN} += "xfce4-terminal-default-config"
+RRECOMMENDS_${PN} += "xfce4-terminal-default-config"
